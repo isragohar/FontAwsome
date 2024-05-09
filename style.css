@@ -1,0 +1,106 @@
+body{
+   
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+   
+
+  
+
+}
+
+header{
+  display: flex;
+  color: #686869;
+  padding: 20px;
+  font-family: sans-serif;
+ cursor: pointer;
+}
+.logo i{
+ margin-top: -5px;
+  font-size: large;
+}
+header div{
+  margin-left: 70px;
+}
+.container{
+  height: 100px;
+  width: 85%;
+  border-radius: 20px;
+  display: flex;
+  margin: 10px auto;
+  background-color: rgb(251, 90, 62);
+color: white;
+font-family: sans-serif;
+}
+.fa-arrow-right-to-bracket{
+    margin-left: 200px;
+    font-size: x-large;
+}
+.container .fa-brands{
+   justify-content: flex-start;
+    font-size: xx-large;
+    margin-left: 20px;
+    color:  rgb(9, 9, 86);
+    margin-top: 30px;
+}
+.bold{
+    font-size: large;
+font-weight: bold;
+margin-top: 40px;
+margin-left: 10px;
+}
+.container p{
+    margin-top: 40px;  
+}
+.container button:hover{
+    cursor: pointer;
+    background-color: lightgrey;
+}
+.container button{
+    margin-left: 100px;
+    width: 170px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color:rgb(9, 9, 86) ;
+    border: 2px solid rgb(9, 9, 86);
+    box-shadow: 0px 7px  rgb(9, 9, 86);
+}
+.container button i{
+    margin-left: -5px;
+    font-size: large;
+}
+h1{
+    color:  rgb(9, 9, 86);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.clr{
+color: goldenrod;
+}
+.text span.bol{
+    color: rgb(9, 9, 86);
+    font-weight: bold;
+}
+.text{
+    text-align: center;
+    font-size: large;
+}
+.butons button{
+    width: 200px;
+    height: 55px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color:rgb(9, 9, 86) ;
+    border: 2px solid rgb(9, 9, 86);
+    box-shadow: 0px 7px  rgb(9, 9, 86);
+}
+.butons button i{
+    font-size: large;
+}
+.butons{
+    margin-left: 400px;
+}
